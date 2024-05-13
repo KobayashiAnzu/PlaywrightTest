@@ -1,0 +1,13 @@
+{
+  "name": "PlaywrightTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KobayashiAnzu/PlaywrightTest.git",
+  "author": "KobayashiAnzu <anzu020618@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11"
+  },
+  "scripts": {}
+}
